@@ -13,6 +13,8 @@ Worth thirty seconds before you buy: there is a **300-line limit**, and the
 - An AI-assisted review, **up to three actionable findings**, each citing a specific line
 - **Delivered by email within 24 hours** of payment and a reachable file URL
 - **Full refund** to your original payment method if delivery is late
+- Prefer GitHub to email? [Open an issue](https://github.com/zitacron/zitacron-code-review/issues/new)
+  asking for delivery there and we post the review on that thread instead, same 24 hours
 
 [See a sample three-finding review →](SAMPLE_REVIEW.md)
 

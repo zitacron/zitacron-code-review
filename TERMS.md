@@ -25,6 +25,12 @@ If a Zitacron page you bought from promised **same-day** delivery, that shorter 
 is honoured for your order. Where our published turnaround times differ, the one most
 favourable to you applies.
 
+Delivery is by email to the address on your Stripe receipt. If you would rather have the
+review on GitHub, open an issue on the offer repository saying so and we post it on that
+thread inside the same window. If email to you bounces, we post it on the offer repository
+as an issue addressed to you and treat that as delivered; you keep the clause 5 refund
+right if that also fails.
+
 ## 3. Scope limits
 
 - One file, 300 lines maximum. Larger files are refunded, not truncated.
