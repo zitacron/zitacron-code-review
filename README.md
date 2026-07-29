@@ -11,6 +11,8 @@ One business-use review slot from **Zitacron Inc.**
 - Delivery by email within 24 hours
 - Full refund if delivery is late
 
+[See a sample three-finding review](SAMPLE_REVIEW.md).
+
 The checkout collects the public file URL and contact details. No repository
 access, credentials, or private source code are requested.
 
