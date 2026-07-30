@@ -20,6 +20,8 @@ Worth thirty seconds before you buy: there is a **300-line limit**, and the
 
 [See a sample three-finding review →](SAMPLE_REVIEW.md)
 
+[See a real delivery thread — exactly what lands when you buy →](https://github.com/zitacron/zitacron-code-review/issues/1)
+
 ## Reviews we have actually published
 
 Real findings in real, widely-used code — not a mock-up. Every quoted line was re-checked
