@@ -1,0 +1,45 @@
+name: Review request
+description: Request your CA$5 one-file review, or ask a question before buying
+title: "Review request: "
+labels: ["review-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This thread is where your review gets posted. You do not need to have paid yet —
+        if you have questions first, ask them here.
+  - type: input
+    id: file-url
+    attributes:
+      label: Public URL of the file
+      description: One file, 300 lines maximum, publicly reachable. A GitHub blob or raw URL is ideal.
+      placeholder: https://github.com/owner/repo/blob/main/path/to/file.py
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language / runtime
+      placeholder: Python 3.12, Node 20, Go 1.22, bash
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: What is this file supposed to do?
+      description: One or two sentences. This is what we check the code against.
+    validations:
+      required: true
+  - type: textarea
+    id: worry
+    attributes:
+      label: What are you worried about?
+      description: Correctness, a specific edge case, security, performance, or "no idea, just look at it".
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        **Not paid yet?** [Buy a CA$5 slot](https://buy.stripe.com/4gM3cu5WPac12jugwFbEA00),
+        then paste the Stripe receipt number here. Delivery is a comment on this thread within
+        24 hours of payment — see [TERMS](../blob/main/TERMS.md). Late means a full refund.
