@@ -14,7 +14,9 @@ Worth thirty seconds before you buy: there is a **300-line limit**, and the
 - **Delivered on a public GitHub issue thread within 24 hours** of payment and a
   reachable file URL — you get a permanent link you can share with your team
 - **Full refund** to your original payment method if delivery is late
-- Want a copy by email as well? Say so on the issue and we send one as a courtesy
+- **The issue thread is the delivery — we do not send reviews by email.** If a post or
+  listing you came from promised email, the thread is what counts and what the refund
+  is keyed to
 
 [See a sample three-finding review →](SAMPLE_REVIEW.md)
 

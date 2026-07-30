@@ -29,10 +29,10 @@ Delivery is by a comment on a public issue in the offer repository, and that is 
 counts as delivered. If you have not opened one, we open it addressed to you. You get a
 permanent link to the review either way.
 
-If you would also like a copy by email, say so on the issue and we send one as a
-courtesy. Email is not the delivery channel and an email that never arrives does not
-delay, reduce, or excuse your delivery — the clause 5 refund right is keyed to the issue
-thread only.
+We do not deliver by email. If a post or listing you saw promised delivery by email
+within 24 hours, the issue thread is the delivery and the clause 5 refund right is keyed
+to it — an email that never arrives does not delay, reduce, or excuse your delivery.
+You can still write to support@zitacron.com; we answer on the issue.
 
 ## 3. Scope limits
 
