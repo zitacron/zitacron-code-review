@@ -29,9 +29,11 @@ Delivery is by a comment on a public issue in the offer repository, and that is 
 counts as delivered. If you have not opened one, we open it addressed to you. You get a
 permanent link to the review either way.
 
-We do not deliver by email. If a post or listing you saw promised delivery by email
-within 24 hours, the issue thread is the delivery and the clause 5 refund right is keyed
-to it — an email that never arrives does not delay, reduce, or excuse your delivery.
+We do not deliver by email. This overrides any page you bought from that says
+otherwise — including the Stripe checkout itself, whose product description still reads
+"emailed within 24 hours". Wherever you saw an email promise, the issue thread is the
+delivery and the clause 5 refund right is keyed to it. An email that never arrives does
+not delay, reduce, or excuse your delivery, and it is not a ground for refund on its own.
 You can still write to support@zitacron.com; we answer on the issue.
 
 ## 3. Scope limits

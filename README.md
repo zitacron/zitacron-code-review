@@ -14,9 +14,10 @@ Worth thirty seconds before you buy: there is a **300-line limit**, and the
 - **Delivered on a public GitHub issue thread within 24 hours** of payment and a
   reachable file URL — you get a permanent link you can share with your team
 - **Full refund** to your original payment method if delivery is late
-- **The issue thread is the delivery — we do not send reviews by email.** If a post or
-  listing you came from promised email, the thread is what counts and what the refund
-  is keyed to
+- **The issue thread is the delivery — we do not send reviews by email.** The Stripe
+  checkout's own description still says "emailed within 24 hours"; that wording is stale.
+  The thread is what counts and what the refund is keyed to — see
+  [TERMS clause 2](TERMS.md#2-turnaround)
 
 [See a sample three-finding review →](SAMPLE_REVIEW.md)
 
