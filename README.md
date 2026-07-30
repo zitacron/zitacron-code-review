@@ -18,6 +18,20 @@ Worth thirty seconds before you buy: there is a **300-line limit**, and the
 
 [See a sample three-finding review →](SAMPLE_REVIEW.md)
 
+## Reviews we have actually published
+
+Real findings in real, widely-used code — not a mock-up. Every quoted line was re-checked
+against the file at the cited line number, and findings we could not stand behind were cut
+before publishing rather than padded in.
+
+| Review | File | Project | Licence | Findings |
+|---|---|---|---|---|
+| [REVIEW-01](REVIEW-01.md) | `scripts/nettop.py` | giampaolo/psutil | BSD-3 | 3 |
+| [REVIEW-02](REVIEW-02.md) | `lib/index.js` | vercel/async-retry | MIT | 3 |
+| [REVIEW-03](REVIEW-03.md) | `bin/git-force-clone` | tj/git-extras | MIT | 3 |
+
+**[Buy a CA$5 slot →](https://buy.stripe.com/4gM3cu5WPac12jugwFbEA00)**
+
 ## "Why wouldn't I just ask an AI myself?"
 
 Mostly, you should — and if you already do this well, you are not who this is for.
