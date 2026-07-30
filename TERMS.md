@@ -1,9 +1,9 @@
-# Terms — CA$5 one-file code review
+# Terms — CA$2 one-file code review
 
 Seller: **Zitacron Inc.**, Ontario, Canada.
 Last updated: 2026-07-29.
 
-These terms govern the CA$5 one-file code review sold through the Stripe checkout linked
+These terms govern the CA$2 one-file code review sold through the Stripe checkout linked
 from [README.md](README.md). They cover this service only.
 
 ## 1. What you are buying
@@ -29,11 +29,10 @@ Delivery is by a comment on a public issue in the offer repository, and that is 
 counts as delivered. If you have not opened one, we open it addressed to you. You get a
 permanent link to the review either way.
 
-We do not deliver by email. This overrides any page you bought from that says
-otherwise — including the Stripe checkout itself, whose product description still reads
-"emailed within 24 hours". Wherever you saw an email promise, the issue thread is the
-delivery and the clause 5 refund right is keyed to it. An email that never arrives does
-not delay, reduce, or excuse your delivery, and it is not a ground for refund on its own.
+We do not deliver by email. This overrides any page you bought from that says otherwise.
+Wherever you saw an email promise, the issue thread is the delivery and the clause 5
+refund right is keyed to it. An email that never arrives does not delay, reduce, or
+excuse your delivery, and it is not a ground for refund on its own.
 You can still write to support@zitacron.com; we answer on the issue.
 
 ## 3. Scope limits

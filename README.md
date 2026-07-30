@@ -1,8 +1,8 @@
-# CA$5 one-file code review
+# CA$2 one-file code review
 
 One business-use review slot from **Zitacron Inc.**, Ontario, Canada.
 
-**[Buy a CA$5 slot →](https://buy.stripe.com/4gM3cu5WPac12jugwFbEA00)**
+**[Buy a CA$2 slot →](https://buy.stripe.com/aFadR84SLesh9LWa8hbEA02)**
 
 Worth thirty seconds before you buy: there is a **300-line limit**, and the
 [refund policy](#refunds) is unconditional on the things that are our fault.
@@ -14,10 +14,8 @@ Worth thirty seconds before you buy: there is a **300-line limit**, and the
 - **Delivered on a public GitHub issue thread within 24 hours** of payment and a
   reachable file URL — you get a permanent link you can share with your team
 - **Full refund** to your original payment method if delivery is late
-- **The issue thread is the delivery — we do not send reviews by email.** The Stripe
-  checkout's own description still says "emailed within 24 hours"; that wording is stale.
-  The thread is what counts and what the refund is keyed to — see
-  [TERMS clause 2](TERMS.md#2-turnaround)
+- **The issue thread is the delivery — we do not send reviews by email.** The thread is
+  what counts and what the refund is keyed to — see [TERMS clause 2](TERMS.md#2-turnaround)
 
 [See a sample three-finding review →](SAMPLE_REVIEW.md)
 
@@ -35,7 +33,7 @@ before publishing rather than padded in.
 | [REVIEW-02](REVIEW-02.md) | `lib/index.js` | vercel/async-retry | MIT | 3 |
 | [REVIEW-03](REVIEW-03.md) | `bin/git-force-clone` | tj/git-extras | MIT | 3 |
 
-**[Buy a CA$5 slot →](https://buy.stripe.com/4gM3cu5WPac12jugwFbEA00)**
+**[Buy a CA$2 slot →](https://buy.stripe.com/aFadR84SLesh9LWa8hbEA02)**
 
 ## "Why wouldn't I just ask an AI myself?"
 
@@ -47,8 +45,8 @@ checks the findings against the actual file before you ever see them. A raw mode
 hand you ten findings, and three of them will be wrong. We hand you at most three, each
 citing a line, and we drop the ones we could not stand behind — see clause 4.
 
-The honest version: this is a review with a human accountable for it, priced at CA$5
-because it is one file and we are new. If the findings are not worth CA$5, clause 5 is
+The honest version: this is a review with a human accountable for it, priced at CA$2
+because it is one file and we are new. If the findings are not worth CA$2, clause 5 is
 an unconditional refund.
 
 ## What we need from you

@@ -128,6 +128,6 @@ We report only what we can stand behind. Four candidates were investigated and d
 
 ---
 
-This is a sample of the paid service: **CA$5 per file, 300 lines maximum**, at most three findings, each citing a line, refunded if late or if there is nothing worth saying.
+This is a sample of the paid service: **CA$2 per file, 300 lines maximum**, at most three findings, each citing a line, refunded if late or if there is nothing worth saying.
 
-**[Buy a CA$5 slot →](https://buy.stripe.com/4gM3cu5WPac12jugwFbEA00)** · [Request a review](https://github.com/zitacron/zitacron-code-review/issues/new?template=review-request.yml) · [Terms](TERMS.md)
+**[Buy a CA$2 slot →](https://buy.stripe.com/aFadR84SLesh9LWa8hbEA02)** · [Request a review](https://github.com/zitacron/zitacron-code-review/issues/new?template=review-request.yml) · [Terms](TERMS.md)

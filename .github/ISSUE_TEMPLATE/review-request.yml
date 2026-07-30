@@ -1,5 +1,5 @@
 name: Review request
-description: Request your CA$5 one-file review, or ask a question before buying
+description: Request your CA$2 one-file review, or ask a question before buying
 title: "Review request: "
 labels: ["review-request"]
 body:
@@ -40,6 +40,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Not paid yet?** [Buy a CA$5 slot](https://buy.stripe.com/4gM3cu5WPac12jugwFbEA00),
+        **Not paid yet?** [Buy a CA$2 slot](https://buy.stripe.com/aFadR84SLesh9LWa8hbEA02),
         then paste the Stripe receipt number here. Delivery is a comment on this thread within
         24 hours of payment — see [TERMS](../blob/main/TERMS.md). Late means a full refund.
