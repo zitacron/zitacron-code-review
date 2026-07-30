@@ -11,12 +11,26 @@ Worth thirty seconds before you buy: there is a **300-line limit**, and the
 
 - One public GitHub file, **maximum 300 lines**
 - An AI-assisted review, **up to three actionable findings**, each citing a specific line
-- **Delivered by email within 24 hours** of payment and a reachable file URL
+- **Delivered on a public GitHub issue thread within 24 hours** of payment and a
+  reachable file URL — you get a permanent link you can share with your team
 - **Full refund** to your original payment method if delivery is late
-- Prefer GitHub to email? [Open an issue](https://github.com/zitacron/zitacron-code-review/issues/new)
-  asking for delivery there and we post the review on that thread instead, same 24 hours
+- Want a copy by email as well? Say so on the issue and we send one as a courtesy
 
 [See a sample three-finding review →](SAMPLE_REVIEW.md)
+
+## "Why wouldn't I just ask an AI myself?"
+
+Mostly, you should — and if you already do this well, you are not who this is for.
+
+What you are buying is not access to a model. It is that someone who does this all day
+picks the prompt, reads the output, throws away the two-thirds that is padding, and
+checks the findings against the actual file before you ever see them. A raw model will
+hand you ten findings, and three of them will be wrong. We hand you at most three, each
+citing a line, and we drop the ones we could not stand behind — see clause 4.
+
+The honest version: this is a review with a human accountable for it, priced at CA$5
+because it is one file and we are new. If the findings are not worth CA$5, clause 5 is
+an unconditional refund.
 
 ## What we need from you
 

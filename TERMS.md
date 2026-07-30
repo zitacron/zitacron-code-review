@@ -9,7 +9,7 @@ from [README.md](README.md). They cover this service only.
 ## 1. What you are buying
 
 One review of one file, hosted publicly on GitHub, of at most 300 lines. You receive up
-to three findings by email, each citing a line in the file you submitted. A review is
+to three findings, each citing a line in the file you submitted. A review is
 professional opinion about code, not a certification, a warranty, a penetration test, or
 an assurance that the file is free of defects.
 
@@ -25,11 +25,14 @@ If a Zitacron page you bought from promised **same-day** delivery, that shorter 
 is honoured for your order. Where our published turnaround times differ, the one most
 favourable to you applies.
 
-Delivery is by email to the address on your Stripe receipt. If you would rather have the
-review on GitHub, open an issue on the offer repository saying so and we post it on that
-thread inside the same window. If email to you bounces, we post it on the offer repository
-as an issue addressed to you and treat that as delivered; you keep the clause 5 refund
-right if that also fails.
+Delivery is by a comment on a public issue in the offer repository, and that is what
+counts as delivered. If you have not opened one, we open it addressed to you. You get a
+permanent link to the review either way.
+
+If you would also like a copy by email, say so on the issue and we send one as a
+courtesy. Email is not the delivery channel and an email that never arrives does not
+delay, reduce, or excuse your delivery — the clause 5 refund right is keyed to the issue
+thread only.
 
 ## 3. Scope limits
 
