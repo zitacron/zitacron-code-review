@@ -39,5 +39,7 @@ Zitacron Inc., Ontario, Canada. Stripe passes us your name and email with the pa
 use them for the accounting record Canadian tax rules require, and for nothing else. Card
 details go to Stripe and never reach us.
 
-Terms for the paid service: **[TERMS.md](TERMS.md)**. They do not govern this page — a
-tip is not a purchase.
+The tip checkout asks you to accept **[TERMS.md](TERMS.md)**. The part that applies to you
+is **clause 11** — a tip buys nothing, and we send it back if you ask. Clauses 1 to 5 are
+the paid review's turnaround and refund rights, and a tip is not a purchase, so they do
+not apply here.

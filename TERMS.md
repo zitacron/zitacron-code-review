@@ -1,10 +1,11 @@
-# Terms — CA$2 one-file code review
+# Terms — Zitacron Inc.
 
 Seller: **Zitacron Inc.**, Ontario, Canada.
-Last updated: 2026-07-29.
+Last updated: 2026-07-31.
 
-These terms govern the CA$2 one-file code review sold through the Stripe checkout linked
-from [README.md](README.md). They cover this service only.
+Clauses 1–10 govern the CA$2 one-file code review sold through the Stripe checkout linked
+from [README.md](README.md). Clause 11 governs a voluntary tip. They cover these two
+things only.
 
 ## 1. What you are buying
 
@@ -91,3 +92,18 @@ does not limit anything that cannot be limited under applicable Ontario or Canad
 
 These terms may change for future orders. The version in effect for your order is the
 one published when you paid; this file's git history is the record.
+
+## 11. Tips
+
+A tip is voluntary and buys nothing. It does not order a review, does not join a queue,
+and creates no obligation in either direction. Clauses 1 to 5 do not apply to it — there
+is no deliverable, so there is no turnaround and nothing to be late. The amount is yours,
+with a CA$3 minimum; see [TIP.md](TIP.md).
+
+If you tipped by mistake or changed your mind, say so — open an issue on this repository
+or email support@zitacron.com — and we return it in full to the original payment method,
+without asking why and with no deadline on the request.
+
+A voluntary gratuity is not payment for a supply, so no GST/HST is charged and no
+registration number appears on your receipt. Clauses 7, 8 and 10 apply to a tip exactly
+as they apply to an order.
