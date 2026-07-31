@@ -1,0 +1,23 @@
+name: Deliver a finished review
+
+on:
+  push:
+    branches: [main]
+    paths: ['reviews/*.md']
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  deliver:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # deliver.sh diffs two commits
+      - name: Post each new review to its thread
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: .github/deliver.sh "${{ github.event.before }}" "${{ github.sha }}"
