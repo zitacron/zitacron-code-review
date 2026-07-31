@@ -1,0 +1,38 @@
+name: Acknowledge review request
+
+# Posts the first reply within seconds of a review request opening: whether the file URL
+# actually resolves, whether it is inside the 300-line limit, and when the review is due.
+# It does not write the review — see .github/scripts/ack_review_request.py.
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write        # the only scope needed; GITHUB_TOKEN is built in, no secret to add
+
+jobs:
+  acknowledge:
+    # The label alone is not a safe gate: `review-request` does not exist in the repo, and a
+    # form's labels: entry does not create it — GitHub skips labels that are missing, so every
+    # real request would arrive unlabelled and this job would never run. The second clause keys
+    # off the form's own heading instead, which is in the event payload and needs no repo state.
+    if: >-
+      contains(github.event.issue.labels.*.name, 'review-request') ||
+      contains(github.event.issue.body, '### Public URL of the file')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # The issue body is text from a stranger. It goes through the environment, never
+      # through a ${{ }} interpolation in a run: line, which would be shell injection.
+      - name: Compose the reply
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: python3 .github/scripts/ack_review_request.py > comment.md
+
+      - name: Post it
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: gh issue comment "$ISSUE" --repo "$GITHUB_REPOSITORY" --body-file comment.md
