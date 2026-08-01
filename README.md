@@ -51,7 +51,15 @@ an unconditional refund.
 
 ## What we need from you
 
-Checkout collects the public file URL and your contact details. That is the whole ask.
+Checkout collects the public file URL and your contact details. That is the whole ask
+before you pay.
+
+After paying, the confirmation page links you to a request thread. Open it and the review
+lands there and GitHub tells you when it does — that takes a **free GitHub account**, and
+it is the route that actually reaches you. If you would rather not create one, we open the
+thread ourselves and post the review anyway, but we cannot notify you: there is no
+outbound email here, so you would have to find it yourself in
+[the issues list](../../issues), which is public and readable without an account.
 
 We never request repository access, credentials, tokens, or private source code. If a
 file turns out not to be publicly reachable, we ask once for a different URL — we do not

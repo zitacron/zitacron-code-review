@@ -27,8 +27,11 @@ is honoured for your order. Where our published turnaround times differ, the one
 favourable to you applies.
 
 Delivery is by a comment on a public issue in the offer repository, and that is what
-counts as delivered. If you have not opened one, we open it addressed to you. You get a
-permanent link to the review either way.
+counts as delivered. Opening that thread takes a free GitHub account, and it is the route
+that reaches you: GitHub tells you when the review is posted. If you have not opened one,
+we open it ourselves, titled with the file you submitted, and post the review there — but
+we cannot send you the link, for the reason in the next paragraph, so you would find it in
+the repository's issues list. That list is public and readable without an account.
 
 We do not deliver by email. This overrides any page you bought from that says otherwise.
 Wherever you saw an email promise, the issue thread is the delivery and the clause 5
