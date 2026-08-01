@@ -1,7 +1,7 @@
 # Tip — pay what the review was worth
 
-Some reviews here are free. We pick a public file, review it, and post the findings on a
-public thread — unasked, unpaid, and with the same standard as the paid ones.
+Some reviews here are free. We pick a public file, review it, and publish the findings
+here — unasked, unpaid, and with the same standard as the paid ones.
 
 If one of those was worth something to you, this is where you say so.
 

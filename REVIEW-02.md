@@ -128,6 +128,19 @@ We report only what we can stand behind. Four candidates were investigated and d
 
 ---
 
-This is a sample of the paid service: **CA$2 per file, 300 lines maximum**, at most three findings, each citing a line, refunded if late or if there is nothing worth saying.
+Nobody paid for this review. We picked a public file, read it properly, and published what we
+found — unasked, and to the same standard as the paid ones.
 
-**[Buy a CA$2 slot →](https://buy.stripe.com/aFadR84SLesh9LWa8hbEA02)** · [Request a review](https://github.com/zitacron/zitacron-code-review/issues/new?template=review-request.yml) · [Terms](TERMS.md)
+If it was worth something to you: **[tip what it was worth
+→](https://buy.stripe.com/3cI14m70Tck9f6ga8hbEA03)** — you choose the amount, CA$3 minimum. It
+buys nothing, gets you nothing, and creates no obligation in either direction. [Why CA$3, and
+what a tip is not](TIP.md).
+
+Want your own file read? **CA$2 per file**, 300 lines maximum, at most three findings each
+citing a line, refunded if late or if there is nothing worth saying. Delivery is a comment on a
+public issue in this repository — that is the only channel, because this org has no outbound
+email and will not promise you something it cannot send.
+
+**[Buy a CA$2 slot →](https://buy.stripe.com/aFadR84SLesh9LWa8hbEA02)** · [Request a
+review](https://github.com/zitacron/zitacron-code-review/issues/new?template=review-request.yml)
+· [Terms](TERMS.md)
