@@ -8,7 +8,7 @@
 | File | [`libexec/pyenv-latest`](https://raw.githubusercontent.com/pyenv/pyenv/master/libexec/pyenv-latest) (as of commit `6481d14`, the most recent commit to touch this file) |
 | Licence | MIT |
 | Length | 105 lines |
-| Verified against | GNU bash 5.2.21, GNU coreutils `sort` 9.4, GNU sed, mawk / nawk / busybox awk, and the complete python-build definition list — 1,433 definitions read from the repository tree at `f5915fc` |
+| Verified against | GNU bash 5.2.21, GNU coreutils `sort` 9.4, GNU sed, mawk / nawk / busybox awk, and the complete python-build definition list — 1,074 definitions read from the repository tree at `f5915fc` (that path also holds 359 files under `patches/`, which `python-build --definitions` never emits; they are excluded) |
 
 ---
 
