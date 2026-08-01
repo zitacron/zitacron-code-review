@@ -12,7 +12,8 @@ Worth thirty seconds before you buy: there is a **300-line limit**, and the
 - One public GitHub file, **maximum 300 lines**
 - An AI-assisted review, **up to three actionable findings**, each citing a specific line
 - **Delivered on a public GitHub issue thread within 24 hours** of payment and a
-  reachable file URL — you get a permanent link you can share with your team
+  reachable file URL — the thread has a permanent public address you can share with your
+  team, and opening it yourself is how GitHub tells you the review has landed
 - **Full refund** to your original payment method if delivery is late
 - **The issue thread is the delivery — we do not send reviews by email.** The thread is
   what counts and what the refund is keyed to — see [TERMS clause 2](TERMS.md#2-turnaround)
