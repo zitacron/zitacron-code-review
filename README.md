@@ -33,6 +33,7 @@ before publishing rather than padded in.
 | [REVIEW-01](REVIEW-01.md) | `scripts/nettop.py` | giampaolo/psutil | BSD-3 | 3 |
 | [REVIEW-02](REVIEW-02.md) | `lib/index.js` | vercel/async-retry | MIT | 3 |
 | [REVIEW-03](REVIEW-03.md) | `bin/git-force-clone` | tj/git-extras | MIT | 3 |
+| [REVIEW-04](REVIEW-04.md) | `libexec/pyenv-latest` | pyenv/pyenv | MIT | 3 |
 
 **[Buy a CA$2 slot →](https://buy.stripe.com/aFadR84SLesh9LWa8hbEA02)**
 
